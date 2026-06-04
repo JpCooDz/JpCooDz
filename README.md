@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats-sepia-omega-61.vercel.app/api?username=JpCooDz&show_icons=true&theme=dracula&count_private=true)
 
-![Top Langs](github-readme-stats-sepia-omega-61.vercel.app/api/top-langs/?username=JpCooDz&layout=compact)
+[![GitHub stats](https://github-readme-stats-sepia-omega-61.vercel.app/api?username=JpCooDz&show_icons=true&theme=dracula&count_private=true)](https://github.com/JpCooDz)
 
 ## Tecnologias que eu uso no meu dia
 
