@@ -1,10 +1,20 @@
-<h1 align="center">Olá! Eu sou o JpCooDz 🖐️</h1>
+<!-- BANNER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=JpCooDz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20%7C%20FiveM%20%7C%20Apaixonado%20por%20tecnologia&descAlignY=55&descSize=18" />
 
-<p align="center">
-  Desenvolvedor apaixonado por tecnologia, automação e desenvolvimento para FiveM.
-</p>
+<!-- TEXTO COM ANIMAÇÃO DE DIGITAÇÃO -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+JpCooDz+%F0%9F%96%90%EF%B8%8F;Desenvolvedor+FiveM+%26+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<!-- CONTADOR DE VISITAS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JpCooDz&label=Visitas+no+perfil&color=bd93f9&style=flat" alt="profile views" />
+</div>
+
+<br/>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
   <a href="https://www.youtube.com/channel/UCrHdn7UPFkDeUE2wZgNK42g">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
@@ -14,30 +24,17 @@
   <a href="https://www.twitch.tv/jpcoodz">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 Tecnologias que eu uso no meu dia
+<!-- SOBRE MIM -->
+## 🧑‍💻 Sobre mim
 
-<p align="center">
-  <img alt="Lua"        src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HTML5"      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3"       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="C++"        src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="VB.NET"     src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="FiveM"      src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
-  <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sepia-omega-61.vercel.app/api?username=JpCooDz&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sepia-omega-61.vercel.app/api/top-langs/?username=JpCooDz&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+```ts
+const jpcoodz = {
+  area: "Desenvolvimento FiveM & Automação",
+  linguagens: ["Lua", "Python", "JavaScript", "C++", "VB.NET"],
+  foco: ["Scripts FiveM", "Interfaces (NUI)", "Bancos de dados"],
+  curiosidade: "Apaixonado por tecnologia e sempre criando algo novo 🚀"
+};
