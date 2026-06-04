@@ -63,13 +63,12 @@
 <br/>
 
 <!-- ===================== TROFÉUS ===================== -->
-## 🏆 Troféus
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JpCooDz&theme=dracula&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JpCooDz&theme=dracula" />
 </div>
 
-<br/>
 
 <!-- ===================== RODAPÉ ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
