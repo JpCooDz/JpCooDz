@@ -38,3 +38,41 @@ const jpcoodz = {
   foco: ["Scripts FiveM", "Interfaces (NUI)", "Bancos de dados"],
   curiosidade: "Apaixonado por tecnologia e sempre criando algo novo 🚀"
 };
+```
+
+<br/>
+
+<!-- ===================== TECNOLOGIAS ===================== -->
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,cpp,dotnet,mysql,git,github,vscode&perline=6" />
+</div>
+
+<br/>
+
+<!-- ===================== ESTATÍSTICAS ===================== -->
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sepia-omega-61.vercel.app/api?username=JpCooDz&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sepia-omega-61.vercel.app/api/top-langs/?username=JpCooDz&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JpCooDz&theme=dracula&hide_border=true" alt="streak" />
+</div>
+
+<br/>
+
+<!-- ===================== TROFÉUS ===================== -->
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JpCooDz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+<br/>
+
+<!-- ===================== RODAPÉ ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
