@@ -31,14 +31,11 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 🧑‍💻 Sobre mim
 
-```ts
-const jpcoodz = {
-  area: "Desenvolvimento FiveM & Automação",
-  linguagens: ["Lua", "Python", "JavaScript", "C++", "VB.NET"],
-  foco: ["Scripts FiveM", "Interfaces (NUI)", "Bancos de dados"],
-  curiosidade: "Apaixonado por tecnologia e sempre criando algo novo 🚀"
-};
-```
+- 🎮 Foco em **Desenvolvimento FiveM & Automação**
+- 💻 Trabalho com **Lua, Python, JavaScript, C++ e VB.NET**
+- 🛠️ Crio **Scripts FiveM**, **Interfaces (NUI)** e mexo com **Bancos de dados**
+- 🚀 Apaixonado por tecnologia e sempre criando algo novo
+- 📺 Compartilho conteúdo no **YouTube**, **Twitch** e **Instagram**
 
 <br/>
 
@@ -66,12 +63,13 @@ const jpcoodz = {
 <br/>
 
 <!-- ===================== TROFÉUS ===================== -->
-## 🏆 Conquistas
+## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JpCooDz&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JpCooDz&theme=dracula&column=7&margin-w=8&margin-h=8" />
 </div>
 
+<br/>
 
 <!-- ===================== RODAPÉ ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
