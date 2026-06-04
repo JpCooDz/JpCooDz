@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpcgouveia/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jpcoodz)
 
-![JpCooDz GitHub stats](https://github-readme-stats.vercel.app/api?username=JpCooDz&show_icons=true&theme=dracula&count_private=true)
+![JpCooDz GitHub stats](github-readme-stats-sepia-omega-61.vercel.app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpCooDz&layout=compact)
 
