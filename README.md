@@ -7,7 +7,7 @@
 
 ![JpCooDz GitHub stats](github-readme-stats-sepia-omega-61.vercel.app)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpCooDz&layout=compact)
+![Top Langs](github-readme-stats-sepia-omega-61.vercel.app/api/top-langs/?username=JpCooDz&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
