@@ -66,13 +66,12 @@ const jpcoodz = {
 <br/>
 
 <!-- ===================== TROFÉUS ===================== -->
-## 🏆 Troféus
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JpCooDz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JpCooDz&theme=dracula" />
 </div>
 
-<br/>
 
 <!-- ===================== RODAPÉ ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
